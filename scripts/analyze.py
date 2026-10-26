@@ -10,8 +10,12 @@ import datetime, math, os, statistics, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import JST, jst_date, load, now, parse_ts, path, save
 
-VIEW_KEYS = ("views", "plays", "videoViews", "impressions", "reach")       # 再生の数として使う物（先にある方）
-ENGAGE_KEYS = ("likes", "reactions", "comments", "shares", "saves", "reposts")
+VIEW_KEYS = ("views", "impressions", "reach", "viewers")        # 再生の数として使う物（先にある方。Buffer の PostMetricType）
+ENGAGE_KEYS = ("comments", "shares", "saves", "reposts")        # これに likes と reactions の多い方を足す（同じ物を2回数えない）
+
+
+def engage_of(m):
+    return max(m.get("likes", 0), m.get("reactions", 0)) + sum(m.get(k, 0) for k in ENGAGE_KEYS)
 NAMES = {"instagram": "Instagram", "tiktok": "TikTok", "youtube": "YouTube"}
 WEEK = "月火水木金土日"
 MIN_AGE_H = 48            # 出してから2日たった物だけ比べる
@@ -71,7 +75,7 @@ def main():
         v, vk = views_of(s["m"])
         if v is None:
             continue
-        eng = sum(s["m"].get(k, 0) for k in ENGAGE_KEYS)
+        eng = engage_of(s["m"])
         sent = parse_ts(e.get("sentAt") or e["dueAt"])
         rows.append((e["channel"], e["item"], e["slot"], math.log1p(v)))
         per_post.append({"post": pid, "channel": e["channel"], "item": e["item"], "slot": e["slot"], "views": v, "view_key": vk,

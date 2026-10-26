@@ -24,8 +24,10 @@ ERROR = "error"
 Q_ORG = "query { account { organizations { id name } } }"
 Q_CHANNELS = """query($org: OrganizationId!) { channels(input: {organizationId: $org}) {
   id service name isDisconnected isLocked isQueuePaused } }"""
-Q_POSTS = """query($org: OrganizationId!, $ch: [ChannelId!], $after: String) {
-  posts(first: 50, after: $after, input: {organizationId: $org, filter: {channelIds: $ch}, sort: [{field: dueAt, direction: desc}]}) {
+# status は空だと何も返らない（全部並べる）。postTypes は外の道具には使えないので空のまま
+Q_POSTS = """query($org: OrganizationId!, $ch: [ChannelId!]!, $after: String) {
+  posts(first: 50, after: $after, input: {organizationId: $org, sort: [{field: dueAt, direction: desc}],
+        filter: {channelIds: $ch, status: [scheduled, sending, sent, error], postTypes: []}}) {
     edges { node { id status dueAt sentAt externalLink error { message } metrics { type name value unit } metricsUpdatedAt } }
     pageInfo { hasNextPage endCursor } } }"""
 M_CREATE = """mutation($input: CreatePostInput!) { createPost(input: $input) {
@@ -76,7 +78,7 @@ def next_due(last_due, name, cfg, analysis, t):
 
 def post_input(name, cid, it, url, due, cfg):
     inp = {"channelId": cid, "text": it["caption"], "schedulingType": "automatic", "mode": "customScheduled",
-           "dueAt": iso(due), "needsApproval": False, "source": "kintai-reels",
+           "dueAt": iso(due), "needsApproval": False, "source": "kintai-reels", "tagIds": [],
            "assets": [{"video": {"url": url, "metadata": {"thumbnailOffset": int(it.get("thumb_ms", cfg["thumb_ms"]))}}}]}
     ai = bool(it.get("ai_label"))
     if name == "instagram":
