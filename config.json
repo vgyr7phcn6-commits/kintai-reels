@@ -1,0 +1,19 @@
+{
+ "paused": false,
+ "base_url": "https://vgyr7phcn6-commits.github.io/kintai-reels/",
+ "channels": {
+  "instagram": "6adfd6252f1f5ed648e068d7",
+  "tiktok": "6adfd73f2f1f5ed648e070fa",
+  "youtube": "6adfd77a2f1f5ed648e07297"
+ },
+ "queue_target": 10,
+ "start_date": "2026-10-28",
+ "slots_jst": ["09:00", "12:00", "15:00", "18:00", "21:00", "23:00"],
+ "slot_offset": {"instagram": 0, "tiktok": 2, "youtube": 4},
+ "explore_min_per_slot": 3,
+ "explore_rate": 0.34,
+ "thumb_ms": 1200,
+ "youtube_category": "22",
+ "prune_after_days": 3,
+ "low_stock_days": 3
+}
