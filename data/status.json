@@ -1,26 +1,28 @@
 {
- "updated": "2026-10-28T00:31:39.000Z",
+ "updated": "2026-10-29T00:54:50.000Z",
  "paused": false,
  "channels": {
   "instagram": {
    "scheduled": 10,
    "remaining": 15,
    "last_due": "2026-11-07T12:00:00.000Z",
-   "added": [
-    "r011 11/07 21:00 紙のタイムカードから、スマホでピッへ - キンタイ救急隊（試し）"
-   ]
+   "added": []
   },
   "tiktok": {
    "scheduled": 10,
-   "remaining": 16,
-   "last_due": "2026-11-06T14:00:00.000Z",
-   "added": []
+   "remaining": 15,
+   "last_due": "2026-11-07T00:00:00.000Z",
+   "added": [
+    "r011 11/07 09:00 紙のタイムカードから、スマホでピッへ - キンタイ救急隊（試し）"
+   ]
   },
   "youtube": {
    "scheduled": 10,
-   "remaining": 16,
-   "last_due": "2026-11-06T03:00:00.000Z",
-   "added": []
+   "remaining": 15,
+   "last_due": "2026-11-07T06:00:00.000Z",
+   "added": [
+    "r011 11/07 15:00 紙のタイムカードから、スマホでピッへ - キンタイ救急隊（試し）"
+   ]
   }
  },
  "alerts": []
