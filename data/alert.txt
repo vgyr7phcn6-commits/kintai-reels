@@ -1,1 +1,0 @@
-instagram：Buffer とのつながりが切れています（Buffer でつなぎ直してください）

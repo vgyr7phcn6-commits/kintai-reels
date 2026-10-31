@@ -1,9 +1,205 @@
 {
- "updated": "2026-10-30T00:58:40.338291+00:00",
- "posts_measured": 0,
- "slots": {},
- "items": [],
- "groups": {},
- "channels": {},
- "per_post": []
+ "updated": "2026-10-31T00:47:23.888697+00:00",
+ "posts_measured": 3,
+ "slots": {
+  "instagram": {
+   "n": {
+    "09:00": 1,
+    "12:00": 0,
+    "15:00": 0,
+    "18:00": 0,
+    "21:00": 0,
+    "23:00": 0
+   },
+   "effect": {
+    "09:00": 0.0,
+    "12:00": 0.0,
+    "15:00": 0.0,
+    "18:00": 0.0,
+    "21:00": 0.0,
+    "23:00": 0.0
+   },
+   "best": "09:00"
+  },
+  "tiktok": {
+   "n": {
+    "09:00": 0,
+    "12:00": 0,
+    "15:00": 1,
+    "18:00": 0,
+    "21:00": 0,
+    "23:00": 0
+   },
+   "effect": {
+    "09:00": 0.0,
+    "12:00": 0.0,
+    "15:00": 0.0,
+    "18:00": 0.0,
+    "21:00": 0.0,
+    "23:00": 0.0
+   },
+   "best": "15:00"
+  },
+  "youtube": {
+   "n": {
+    "09:00": 0,
+    "12:00": 0,
+    "15:00": 0,
+    "18:00": 0,
+    "21:00": 1,
+    "23:00": 0
+   },
+   "effect": {
+    "09:00": 0.0,
+    "12:00": 0.0,
+    "15:00": 0.0,
+    "18:00": 0.0,
+    "21:00": 0.0,
+    "23:00": 0.0
+   },
+   "best": "21:00"
+  }
+ },
+ "items": [
+  {
+   "id": "r001",
+   "effect": 0.0,
+   "title": "スタッフ30人まで月990円（税込1,089円）。マジです。 - キンタイ救急隊",
+   "series": "今すぐ登録",
+   "style": "マジで",
+   "voice": "玄野武宏／四国めたん",
+   "views": {
+    "instagram": 18,
+    "tiktok": 104,
+    "youtube": 287
+   },
+   "rate": 0.05134474327628362
+  }
+ ],
+ "groups": {
+  "series": {
+   "今すぐ登録": {
+    "n": 1,
+    "effect": 0.0
+   }
+  },
+  "style": {
+   "マジで": {
+    "n": 1,
+    "effect": 0.0
+   }
+  },
+  "hook_type": {
+   "値段の驚き": {
+    "n": 1,
+    "effect": 0.0
+   }
+  },
+  "theme": {
+   "料金": {
+    "n": 1,
+    "effect": 0.0
+   }
+  },
+  "voice": {
+   "玄野武宏／四国めたん": {
+    "n": 1,
+    "effect": 0.0
+   }
+  },
+  "made_by": {
+   "手で作った（10/14〜10/22）": {
+    "n": 1,
+    "effect": 0.0
+   }
+  }
+ },
+ "channels": {
+  "instagram": {
+   "posts": 1,
+   "views": 18,
+   "median": 18,
+   "rate": 0.05555555555555555
+  },
+  "tiktok": {
+   "posts": 1,
+   "views": 104,
+   "median": 104,
+   "rate": 0.16346153846153846
+  },
+  "youtube": {
+   "posts": 1,
+   "views": 287,
+   "median": 287,
+   "rate": 0.010452961672473868
+  }
+ },
+ "per_post": [
+  {
+   "post": "6adfe6163bff354cec676103",
+   "channel": "instagram",
+   "item": "r001",
+   "slot": "09:00",
+   "views": 18,
+   "view_key": "views",
+   "engage": 1,
+   "rate": 0.05555555555555555,
+   "age_h": 62.3,
+   "m": {
+    "reactions": 1,
+    "comments": 0,
+    "engagementRate": 15.38,
+    "views": 18,
+    "shares": 0,
+    "saves": 0,
+    "totalTimeWatched": 1.63,
+    "averageTimeWatched": 7,
+    "reach": 13
+   },
+   "weekday": "水",
+   "link": "https://www.instagram.com/reel/DfBGN59j3qf/"
+  },
+  {
+   "post": "6adfe61c14a7789a82f7ac8a",
+   "channel": "tiktok",
+   "item": "r001",
+   "slot": "15:00",
+   "views": 104,
+   "view_key": "views",
+   "engage": 17,
+   "rate": 0.16346153846153846,
+   "age_h": 60.8,
+   "m": {
+    "reactions": 1,
+    "comments": 1,
+    "engagementRate": 16.35,
+    "views": 104,
+    "shares": 15,
+    "reach": 82,
+    "totalTimeWatched": 5.5,
+    "averageTimeWatched": 2.75
+   },
+   "weekday": "水",
+   "link": "https://tiktok.com/@kintai_kyukyutai/video/7701594682731531538"
+  },
+  {
+   "post": "6adfe620c426e60252cefd1f",
+   "channel": "youtube",
+   "item": "r001",
+   "slot": "21:00",
+   "views": 287,
+   "view_key": "views",
+   "engage": 3,
+   "rate": 0.010452961672473868,
+   "age_h": 54.7,
+   "m": {
+    "reactions": 3,
+    "comments": 0,
+    "engagementRate": 1.05,
+    "views": 287
+   },
+   "weekday": "水",
+   "link": "https://www.youtube.com/shorts/Tl73Fj8481w"
+  }
+ ]
 }

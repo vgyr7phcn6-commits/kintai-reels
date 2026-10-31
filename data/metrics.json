@@ -14,6 +14,21 @@
     "averageTimeWatched": 6.24,
     "reach": 11
    }
+  },
+  {
+   "at": "2026-10-31",
+   "age_h": 62.3,
+   "m": {
+    "reactions": 1,
+    "comments": 0,
+    "engagementRate": 15.38,
+    "views": 18,
+    "shares": 0,
+    "saves": 0,
+    "totalTimeWatched": 1.63,
+    "averageTimeWatched": 7,
+    "reach": 13
+   }
   }
  ],
  "6adfe61c14a7789a82f7ac8a": [
@@ -44,6 +59,20 @@
     "totalTimeWatched": 4.08,
     "averageTimeWatched": 2.27
    }
+  },
+  {
+   "at": "2026-10-31",
+   "age_h": 60.8,
+   "m": {
+    "reactions": 1,
+    "comments": 1,
+    "engagementRate": 16.35,
+    "views": 104,
+    "shares": 15,
+    "reach": 82,
+    "totalTimeWatched": 5.5,
+    "averageTimeWatched": 2.75
+   }
   }
  ],
  "6adfe620c426e60252cefd1f": [
@@ -66,6 +95,16 @@
     "engagementRate": 1.1,
     "views": 272
    }
+  },
+  {
+   "at": "2026-10-31",
+   "age_h": 54.7,
+   "m": {
+    "reactions": 3,
+    "comments": 0,
+    "engagementRate": 1.05,
+    "views": 287
+   }
   }
  ],
  "6adfe61cf266a5f7e103b535": [
@@ -82,6 +121,20 @@
     "totalTimeWatched": 6.58,
     "averageTimeWatched": 3.66
    }
+  },
+  {
+   "at": "2026-10-31",
+   "age_h": 33.7,
+   "m": {
+    "reactions": 1,
+    "comments": 1,
+    "engagementRate": 14.55,
+    "views": 110,
+    "shares": 14,
+    "reach": 0,
+    "totalTimeWatched": 7.78,
+    "averageTimeWatched": 3.74
+   }
   }
  ],
  "6adfe621f266a5f7e103b605": [
@@ -94,6 +147,16 @@
     "engagementRate": 0,
     "views": 0
    }
+  },
+  {
+   "at": "2026-10-31",
+   "age_h": 18.8,
+   "m": {
+    "reactions": 2,
+    "comments": 0,
+    "engagementRate": 0.66,
+    "views": 305
+   }
   }
  ],
  "6adfe620c426e60252cefd54": [
@@ -105,6 +168,49 @@
     "comments": 0,
     "engagementRate": 1.2,
     "views": 249
+   }
+  },
+  {
+   "at": "2026-10-31",
+   "age_h": 28.8,
+   "m": {
+    "reactions": 4,
+    "comments": 0,
+    "engagementRate": 0.38,
+    "views": 1052
+   }
+  }
+ ],
+ "6adfe61714a7789a82f7ab31": [
+  {
+   "at": "2026-10-31",
+   "age_h": 35.3,
+   "m": {
+    "reactions": 2,
+    "comments": 0,
+    "engagementRate": 9.68,
+    "views": 33,
+    "shares": 0,
+    "saves": 0,
+    "totalTimeWatched": 1.1,
+    "averageTimeWatched": 2.2,
+    "reach": 31
+   }
+  }
+ ],
+ "6adfe61d3bff354cec6762a8": [
+  {
+   "at": "2026-10-31",
+   "age_h": 6.7,
+   "m": {
+    "reactions": 0,
+    "comments": 0,
+    "engagementRate": 0,
+    "views": 64,
+    "shares": 0,
+    "reach": 0,
+    "totalTimeWatched": 2.08,
+    "averageTimeWatched": 1.77
    }
   }
  ]
