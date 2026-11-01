@@ -38,10 +38,10 @@
   "slot": "18:00",
   "why": "試し",
   "dueAt": "2026-10-31T09:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-10-26T23:45:25.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-10-31T09:03:47.388Z",
+  "link": "https://www.instagram.com/reel/DfJyltBIU2c/"
  },
  "6adfe61914a7789a82f7aba6": {
   "item": "r005",
@@ -118,7 +118,7 @@
   "status": "sent",
   "created": "2026-10-26T23:45:25.000Z",
   "sentAt": "2026-10-28T06:01:39.927Z",
-  "link": "https://tiktok.com/@kintai_kyukyutai/video/7701594682731531538"
+  "link": "https://www.tiktok.com/@kintai_kyukyutai/video/7701594682731531538?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
  },
  "6adfe61cf266a5f7e103b535": {
   "item": "r002",
@@ -129,7 +129,7 @@
   "status": "sent",
   "created": "2026-10-26T23:45:25.000Z",
   "sentAt": "2026-10-29T09:02:56.426Z",
-  "link": "https://tiktok.com/@kintai_kyukyutai/video/7702012267654597909"
+  "link": "https://www.tiktok.com/@kintai_kyukyutai/video/7702012267654597909?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
  },
  "6adfe61d3bff354cec6762a8": {
   "item": "r003",
@@ -140,7 +140,7 @@
   "status": "sent",
   "created": "2026-10-26T23:45:25.000Z",
   "sentAt": "2026-10-30T12:06:04.671Z",
-  "link": "https://tiktok.com/@kintai_kyukyutai/video/7702430346297511174"
+  "link": "https://www.tiktok.com/@kintai_kyukyutai/video/7702430346297511174?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
  },
  "6adfe61d0565644c947edcb0": {
   "item": "r004",
@@ -148,10 +148,10 @@
   "slot": "23:00",
   "why": "試し",
   "dueAt": "2026-10-31T14:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-10-26T23:45:25.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-10-31T14:06:20.733Z",
+  "link": "https://tiktok.com/@kintai_kyukyutai/video/7702832594194418951"
  },
  "6adfe61dc426e60252cefc77": {
   "item": "r005",
@@ -159,10 +159,10 @@
   "slot": "09:00",
   "why": "試し",
   "dueAt": "2026-11-01T00:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-10-26T23:45:25.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-01T00:03:06.385Z",
+  "link": "https://tiktok.com/@kintai_kyukyutai/video/7702985759589961012"
  },
  "6adfe61e3bff354cec676340": {
   "item": "r006",
@@ -258,10 +258,10 @@
   "slot": "12:00",
   "why": "試し",
   "dueAt": "2026-10-31T03:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-10-26T23:45:25.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-10-31T03:01:11.798Z",
+  "link": "https://www.youtube.com/shorts/wl2PRpt0idE"
  },
  "6adfe6210565644c947ede09": {
   "item": "r005",
@@ -402,7 +402,9 @@
   "why": "試し",
   "dueAt": "2026-11-08T14:00:00.000Z",
   "status": "scheduled",
-  "created": "2026-10-31T00:47:20.000Z"
+  "created": "2026-10-31T00:47:20.000Z",
+  "sentAt": null,
+  "link": null
  },
  "6ae53a9ab84259308bad93f2": {
   "item": "r013",
@@ -411,7 +413,9 @@
   "why": "試し",
   "dueAt": "2026-11-09T00:00:00.000Z",
   "status": "scheduled",
-  "created": "2026-10-31T00:47:20.000Z"
+  "created": "2026-10-31T00:47:20.000Z",
+  "sentAt": null,
+  "link": null
  },
  "6ae53a9ba1145743497a98c6": {
   "item": "r013",
@@ -420,6 +424,44 @@
   "why": "試し",
   "dueAt": "2026-11-09T06:00:00.000Z",
   "status": "scheduled",
-  "created": "2026-10-31T00:47:20.000Z"
+  "created": "2026-10-31T00:47:20.000Z",
+  "sentAt": null,
+  "link": null
+ },
+ "6ae682a721c807e9d591ccbc": {
+  "item": "r014",
+  "channel": "instagram",
+  "slot": "12:00",
+  "why": "試し",
+  "dueAt": "2026-11-10T03:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-01T00:07:01.000Z"
+ },
+ "6ae682a7f0984eef333b3f9f": {
+  "item": "r014",
+  "channel": "tiktok",
+  "slot": "18:00",
+  "why": "試し",
+  "dueAt": "2026-11-10T09:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-01T00:07:01.000Z"
+ },
+ "6ae682a837c1acd2a0dadfe2": {
+  "item": "r015",
+  "channel": "tiktok",
+  "slot": "21:00",
+  "why": "試し",
+  "dueAt": "2026-11-11T12:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-01T00:07:01.000Z"
+ },
+ "6ae682a8ab019b908731286d": {
+  "item": "r014",
+  "channel": "youtube",
+  "slot": "23:00",
+  "why": "試し",
+  "dueAt": "2026-11-10T14:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-01T00:07:01.000Z"
  }
 }
