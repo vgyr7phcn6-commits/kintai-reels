@@ -49,10 +49,10 @@
   "slot": "21:00",
   "why": "試し",
   "dueAt": "2026-11-01T12:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-10-26T23:45:25.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-01T12:03:37.206Z",
+  "link": "https://www.instagram.com/reel/DfMr7W_CZgC/"
  },
  "6adfe6195837b0fb9bf85465": {
   "item": "r006",
@@ -269,10 +269,10 @@
   "slot": "15:00",
   "why": "試し",
   "dueAt": "2026-11-01T06:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-10-26T23:45:25.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-01T06:00:34.094Z",
+  "link": "https://www.youtube.com/shorts/rjiETVn5BPU"
  },
  "6adfe6223bff354cec676426": {
   "item": "r006",
@@ -435,7 +435,9 @@
   "why": "試し",
   "dueAt": "2026-11-10T03:00:00.000Z",
   "status": "scheduled",
-  "created": "2026-11-01T00:07:01.000Z"
+  "created": "2026-11-01T00:07:01.000Z",
+  "sentAt": null,
+  "link": null
  },
  "6ae682a7f0984eef333b3f9f": {
   "item": "r014",
@@ -444,7 +446,9 @@
   "why": "試し",
   "dueAt": "2026-11-10T09:00:00.000Z",
   "status": "scheduled",
-  "created": "2026-11-01T00:07:01.000Z"
+  "created": "2026-11-01T00:07:01.000Z",
+  "sentAt": null,
+  "link": null
  },
  "6ae682a837c1acd2a0dadfe2": {
   "item": "r015",
@@ -453,7 +457,9 @@
   "why": "試し",
   "dueAt": "2026-11-11T12:00:00.000Z",
   "status": "scheduled",
-  "created": "2026-11-01T00:07:01.000Z"
+  "created": "2026-11-01T00:07:01.000Z",
+  "sentAt": null,
+  "link": null
  },
  "6ae682a8ab019b908731286d": {
   "item": "r014",
@@ -462,6 +468,26 @@
   "why": "試し",
   "dueAt": "2026-11-10T14:00:00.000Z",
   "status": "scheduled",
-  "created": "2026-11-01T00:07:01.000Z"
+  "created": "2026-11-01T00:07:01.000Z",
+  "sentAt": null,
+  "link": null
+ },
+ "6ae7dcee2da2578c188f51f3": {
+  "item": "r015",
+  "channel": "instagram",
+  "slot": "15:00",
+  "why": "試し",
+  "dueAt": "2026-11-11T06:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-02T00:44:28.000Z"
+ },
+ "6ae7dcf048ce42a6b4360275": {
+  "item": "r015",
+  "channel": "youtube",
+  "slot": "09:00",
+  "why": "試し",
+  "dueAt": "2026-11-11T00:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-02T00:44:28.000Z"
  }
 }
