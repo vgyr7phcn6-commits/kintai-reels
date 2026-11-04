@@ -181,10 +181,10 @@
   "slot": "15:00",
   "why": "試し",
   "dueAt": "2026-11-03T06:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-10-26T23:45:25.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-03T06:02:47.012Z",
+  "link": "https://tiktok.com/@kintai_kyukyutai/video/7703821255945899271"
  },
  "6adfe61f5837b0fb9bf855b7": {
   "item": "r008",
@@ -291,10 +291,10 @@
   "slot": "21:00",
   "why": "試し",
   "dueAt": "2026-11-03T12:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-10-26T23:45:25.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-03T12:03:24.096Z",
+  "link": "https://www.youtube.com/shorts/ej8PsHfYoiU"
  },
  "6adfe623f266a5f7e103b699": {
   "item": "r008",
@@ -501,7 +501,9 @@
   "why": "試し",
   "dueAt": "2026-11-12T09:00:00.000Z",
   "status": "scheduled",
-  "created": "2026-11-03T02:55:18.000Z"
+  "created": "2026-11-03T02:55:18.000Z",
+  "sentAt": null,
+  "link": null
  },
  "6ae94d1894b13c6dd78f743e": {
   "item": "r017",
@@ -510,7 +512,9 @@
   "why": "試し",
   "dueAt": "2026-11-13T12:00:00.000Z",
   "status": "scheduled",
-  "created": "2026-11-03T02:55:18.000Z"
+  "created": "2026-11-03T02:55:18.000Z",
+  "sentAt": null,
+  "link": null
  },
  "6ae94d1894b13c6dd78f7470": {
   "item": "r016",
@@ -519,7 +523,9 @@
   "why": "試し",
   "dueAt": "2026-11-12T14:00:00.000Z",
   "status": "scheduled",
-  "created": "2026-11-03T02:55:18.000Z"
+  "created": "2026-11-03T02:55:18.000Z",
+  "sentAt": null,
+  "link": null
  },
  "6ae94d19b1dfe2c544ea4f60": {
   "item": "r016",
@@ -528,6 +534,26 @@
   "why": "試し",
   "dueAt": "2026-11-12T03:00:00.000Z",
   "status": "scheduled",
-  "created": "2026-11-03T02:55:18.000Z"
+  "created": "2026-11-03T02:55:18.000Z",
+  "sentAt": null,
+  "link": null
+ },
+ "6aea8863b8d162e0d8f7b2a5": {
+  "item": "r017",
+  "channel": "tiktok",
+  "slot": "09:00",
+  "why": "試し",
+  "dueAt": "2026-11-13T00:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-04T01:20:33.000Z"
+ },
+ "6aea886487b7c6d24c82ae0c": {
+  "item": "r017",
+  "channel": "youtube",
+  "slot": "15:00",
+  "why": "試し",
+  "dueAt": "2026-11-13T06:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-04T01:20:33.000Z"
  }
 }
