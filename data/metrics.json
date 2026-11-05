@@ -89,6 +89,21 @@
     "averageTimeWatched": 6.09,
     "reach": 14
    }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 182.3,
+   "m": {
+    "reactions": 1,
+    "comments": 0,
+    "engagementRate": 14.29,
+    "views": 20,
+    "shares": 0,
+    "saves": 0,
+    "totalTimeWatched": 1.73,
+    "averageTimeWatched": 6.09,
+    "reach": 14
+   }
   }
  ],
  "6adfe61c14a7789a82f7ac8a": [
@@ -189,6 +204,20 @@
     "totalTimeWatched": 5.6,
     "averageTimeWatched": 2.65
    }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 176.2,
+   "m": {
+    "reactions": 1,
+    "comments": 1,
+    "engagementRate": 15.45,
+    "views": 110,
+    "shares": 15,
+    "reach": 101,
+    "totalTimeWatched": 5.63,
+    "averageTimeWatched": 2.65
+   }
   }
  ],
  "6adfe620c426e60252cefd1f": [
@@ -255,6 +284,16 @@
   {
    "at": "2026-11-04",
    "age_h": 147.8,
+   "m": {
+    "reactions": 3,
+    "comments": 0,
+    "engagementRate": 1.01,
+    "views": 297
+   }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 170.9,
    "m": {
     "reactions": 3,
     "comments": 0,
@@ -347,6 +386,20 @@
     "totalTimeWatched": 9.6,
     "averageTimeWatched": 3.8
    }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 149.2,
+   "m": {
+    "reactions": 1,
+    "comments": 1,
+    "engagementRate": 12.14,
+    "views": 140,
+    "shares": 15,
+    "reach": 100,
+    "totalTimeWatched": 9.88,
+    "averageTimeWatched": 3.71
+   }
   }
  ],
  "6adfe621f266a5f7e103b605": [
@@ -403,6 +456,16 @@
   {
    "at": "2026-11-04",
    "age_h": 112.0,
+   "m": {
+    "reactions": 3,
+    "comments": 0,
+    "engagementRate": 0.96,
+    "views": 313
+   }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 135.0,
    "m": {
     "reactions": 3,
     "comments": 0,
@@ -471,6 +534,16 @@
     "engagementRate": 0.35,
     "views": 1156
    }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 145.0,
+   "m": {
+    "reactions": 4,
+    "comments": 0,
+    "engagementRate": 0.34,
+    "views": 1160
+   }
   }
  ],
  "6adfe61714a7789a82f7ab31": [
@@ -537,6 +610,21 @@
   {
    "at": "2026-11-04",
    "age_h": 131.3,
+   "m": {
+    "reactions": 2,
+    "comments": 0,
+    "engagementRate": 9.68,
+    "views": 35,
+    "shares": 0,
+    "saves": 0,
+    "totalTimeWatched": 1.17,
+    "averageTimeWatched": 2.13,
+    "reach": 31
+   }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 155.3,
    "m": {
     "reactions": 2,
     "comments": 0,
@@ -620,6 +708,20 @@
     "totalTimeWatched": 3.78,
     "averageTimeWatched": 2.26
    }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 122.1,
+   "m": {
+    "reactions": 2,
+    "comments": 0,
+    "engagementRate": 2.25,
+    "views": 89,
+    "shares": 0,
+    "reach": 84,
+    "totalTimeWatched": 3.78,
+    "averageTimeWatched": 2.26
+   }
   }
  ],
  "6adfe618c426e60252cefb51": [
@@ -671,6 +773,21 @@
   {
    "at": "2026-11-04",
    "age_h": 77.3,
+   "m": {
+    "reactions": 1,
+    "comments": 0,
+    "engagementRate": 1.82,
+    "views": 124,
+    "shares": 0,
+    "saves": 0,
+    "totalTimeWatched": 6.73,
+    "averageTimeWatched": 3.57,
+    "reach": 110
+   }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 101.3,
    "m": {
     "reactions": 1,
     "comments": 0,
@@ -744,6 +861,21 @@
     "averageTimeWatched": 4.33,
     "reach": 109
    }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 119.9,
+   "m": {
+    "reactions": 0,
+    "comments": 0,
+    "engagementRate": 0.92,
+    "views": 134,
+    "shares": 0,
+    "saves": 0,
+    "totalTimeWatched": 8.08,
+    "averageTimeWatched": 4.33,
+    "reach": 109
+   }
   }
  ],
  "6adfe61d0565644c947edcb0": [
@@ -802,6 +934,20 @@
     "totalTimeWatched": 3.5,
     "averageTimeWatched": 1.99
    }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 96.1,
+   "m": {
+    "reactions": 2,
+    "comments": 0,
+    "engagementRate": 2.06,
+    "views": 97,
+    "shares": 0,
+    "reach": 94,
+    "totalTimeWatched": 3.62,
+    "averageTimeWatched": 2.04
+   }
   }
  ],
  "6adfe621c426e60252cefd7f": [
@@ -844,6 +990,16 @@
     "engagementRate": 1.53,
     "views": 196
    }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 108.0,
+   "m": {
+    "reactions": 3,
+    "comments": 0,
+    "engagementRate": 1.52,
+    "views": 197
+   }
   }
  ],
  "6adfe61914a7789a82f7aba6": [
@@ -880,6 +1036,21 @@
   {
    "at": "2026-11-04",
    "age_h": 50.3,
+   "m": {
+    "reactions": 1,
+    "comments": 0,
+    "engagementRate": 50,
+    "views": 9,
+    "shares": 0,
+    "saves": 0,
+    "totalTimeWatched": 0.86,
+    "averageTimeWatched": 7.33,
+    "reach": 4
+   }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 74.3,
    "m": {
     "reactions": 1,
     "comments": 0,
@@ -935,6 +1106,20 @@
     "totalTimeWatched": 5.68,
     "averageTimeWatched": 2.12
    }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 86.2,
+   "m": {
+    "reactions": 1,
+    "comments": 0,
+    "engagementRate": 1.47,
+    "views": 136,
+    "shares": 1,
+    "reach": 134,
+    "totalTimeWatched": 5.72,
+    "averageTimeWatched": 2.11
+   }
   }
  ],
  "6adfe6210565644c947ede09": [
@@ -967,6 +1152,16 @@
     "engagementRate": 0.67,
     "views": 300
    }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 81.0,
+   "m": {
+    "reactions": 2,
+    "comments": 0,
+    "engagementRate": 0.65,
+    "views": 306
+   }
   }
  ],
  "6adfe6195837b0fb9bf85465": [
@@ -988,6 +1183,21 @@
   {
    "at": "2026-11-04",
    "age_h": 24.2,
+   "m": {
+    "reactions": 1,
+    "comments": 0,
+    "engagementRate": 1.9,
+    "views": 113,
+    "shares": 0,
+    "saves": 0,
+    "totalTimeWatched": 4.25,
+    "averageTimeWatched": 2.45,
+    "reach": 105
+   }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 48.2,
    "m": {
     "reactions": 1,
     "comments": 0,
@@ -1029,6 +1239,20 @@
     "totalTimeWatched": 3.62,
     "averageTimeWatched": 1.96
    }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 59.2,
+   "m": {
+    "reactions": 2,
+    "comments": 0,
+    "engagementRate": 1.96,
+    "views": 102,
+    "shares": 0,
+    "reach": 98,
+    "totalTimeWatched": 3.62,
+    "averageTimeWatched": 1.96
+   }
   }
  ],
  "6adfe6223bff354cec676426": [
@@ -1051,12 +1275,37 @@
     "engagementRate": 2.74,
     "views": 146
    }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 54.0,
+   "m": {
+    "reactions": 4,
+    "comments": 0,
+    "engagementRate": 2.76,
+    "views": 145
+   }
   }
  ],
  "6adfe6195837b0fb9bf85492": [
   {
    "at": "2026-11-04",
    "age_h": 14.3,
+   "m": {
+    "reactions": 0,
+    "comments": 0,
+    "engagementRate": 0,
+    "views": 4,
+    "shares": 0,
+    "saves": 0,
+    "totalTimeWatched": 0.14,
+    "averageTimeWatched": 2.08,
+    "reach": 5
+   }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 38.3,
    "m": {
     "reactions": 0,
     "comments": 0,
@@ -1084,6 +1333,20 @@
     "totalTimeWatched": 2.07,
     "averageTimeWatched": 1.4
    }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 32.2,
+   "m": {
+    "reactions": 1,
+    "comments": 0,
+    "engagementRate": 1.27,
+    "views": 79,
+    "shares": 0,
+    "reach": 0,
+    "totalTimeWatched": 2.3,
+    "averageTimeWatched": 1.52
+   }
   }
  ],
  "6adfe622c426e60252cefddc": [
@@ -1095,6 +1358,73 @@
     "comments": 0,
     "engagementRate": 1.75,
     "views": 114
+   }
+  },
+  {
+   "at": "2026-11-05",
+   "age_h": 27.0,
+   "m": {
+    "reactions": 2,
+    "comments": 0,
+    "engagementRate": 1.23,
+    "views": 163
+   }
+  }
+ ],
+ "6adfe61a0565644c947edbfe": [
+  {
+   "at": "2026-11-05",
+   "age_h": 11.3,
+   "m": {
+    "reactions": 2,
+    "comments": 0,
+    "engagementRate": 75,
+    "views": 14,
+    "shares": 0,
+    "saves": 0,
+    "totalTimeWatched": 2.06,
+    "averageTimeWatched": 17.63,
+    "reach": 4
+   }
+  }
+ ],
+ "6adfe61f5837b0fb9bf855b7": [
+  {
+   "at": "2026-11-05",
+   "age_h": 5.2,
+   "m": {
+    "reactions": 0,
+    "comments": 0,
+    "engagementRate": 0,
+    "views": 44,
+    "shares": 0,
+    "reach": 0,
+    "totalTimeWatched": 1.05,
+    "averageTimeWatched": 1.3
+   }
+  }
+ ],
+ "6adfe6233bff354cec67646b": [
+  {
+   "at": "2026-11-05",
+   "age_h": 0.1,
+   "m": {
+    "reactions": 0,
+    "comments": 0,
+    "engagementRate": 0,
+    "views": 0
+   }
+  }
+ ],
+ "6adfe623f266a5f7e103b699": [
+  {
+   "at": "2026-11-05",
+   "age_h": 1.0,
+   "m": {
+    "reactions": 1,
+    "comments": 0,
+    "engagementRate": 100,
+    "views": 1
    }
   }
  ]
