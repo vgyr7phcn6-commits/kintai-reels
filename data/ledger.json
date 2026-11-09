@@ -368,10 +368,10 @@
   "slot": "12:00",
   "why": "試し",
   "dueAt": "2026-11-08T03:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-10-30T00:58:35.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-08T03:03:07.449Z",
+  "link": "https://tiktok.com/@kintai_kyukyutai/video/7705630401791806772"
  },
  "6ae3ebbf6385db216a18d694": {
   "item": "r012",
@@ -379,10 +379,10 @@
   "slot": "18:00",
   "why": "試し",
   "dueAt": "2026-11-08T09:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-10-30T00:58:35.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-08T09:02:11.982Z",
+  "link": "https://www.youtube.com/shorts/6GWfqA3K3p4"
  },
  "6ae3ebc02782e7f331c49687": {
   "item": "r013",
@@ -401,10 +401,10 @@
   "slot": "23:00",
   "why": "試し",
   "dueAt": "2026-11-08T14:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-10-31T00:47:20.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-08T14:04:37.467Z",
+  "link": "https://www.instagram.com/reel/Dfe7W61GTmo/"
  },
  "6ae53a9ab84259308bad93f2": {
   "item": "r013",
@@ -412,10 +412,10 @@
   "slot": "09:00",
   "why": "試し",
   "dueAt": "2026-11-09T00:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-10-31T00:47:20.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-09T00:03:47.757Z",
+  "link": "https://www.instagram.com/reel/Dff_9Y_DoKG/"
  },
  "6ae53a9ba1145743497a98c6": {
   "item": "r013",
@@ -677,7 +677,9 @@
   "why": "試し",
   "dueAt": "2026-11-17T06:00:00.000Z",
   "status": "scheduled",
-  "created": "2026-11-08T00:34:28.000Z"
+  "created": "2026-11-08T00:34:28.000Z",
+  "sentAt": null,
+  "link": null
  },
  "6aefc396562f2e6de98ca3dc": {
   "item": "r021",
@@ -686,6 +688,44 @@
   "why": "試し",
   "dueAt": "2026-11-17T00:00:00.000Z",
   "status": "scheduled",
-  "created": "2026-11-08T00:34:28.000Z"
+  "created": "2026-11-08T00:34:28.000Z",
+  "sentAt": null,
+  "link": null
+ },
+ "6af1199e9214322f6887a5b7": {
+  "item": "r022",
+  "channel": "instagram",
+  "slot": "18:00",
+  "why": "試し",
+  "dueAt": "2026-11-18T09:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-09T00:53:48.000Z"
+ },
+ "6af1199f004e4879a7ee3cb1": {
+  "item": "r023",
+  "channel": "instagram",
+  "slot": "21:00",
+  "why": "試し",
+  "dueAt": "2026-11-19T12:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-09T00:53:48.000Z"
+ },
+ "6af119a0229bf05dafe501dd": {
+  "item": "r022",
+  "channel": "tiktok",
+  "slot": "23:00",
+  "why": "試し",
+  "dueAt": "2026-11-18T14:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-09T00:53:48.000Z"
+ },
+ "6af119a19214322f6887a66a": {
+  "item": "r022",
+  "channel": "youtube",
+  "slot": "12:00",
+  "why": "試し",
+  "dueAt": "2026-11-18T03:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-09T00:53:48.000Z"
  }
 }
