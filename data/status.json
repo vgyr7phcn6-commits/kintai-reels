@@ -1,30 +1,24 @@
 {
- "updated": "2026-11-13T01:49:30.000Z",
+ "updated": "2026-11-14T01:26:42.000Z",
  "paused": false,
  "channels": {
   "instagram": {
-   "scheduled": 10,
+   "scheduled": 9,
    "remaining": 0,
    "last_due": "2026-11-22T03:00:00.000Z",
-   "added": [
-    "r026 11/22 12:00 月末、ボタン1回の店長。 - キンタイ救急隊（試し）"
-   ]
+   "added": []
   },
   "tiktok": {
    "scheduled": 9,
    "remaining": 0,
    "last_due": "2026-11-22T09:00:00.000Z",
-   "added": [
-    "r026 11/22 18:00 月末、ボタン1回の店長。 - キンタイ救急隊（試し）"
-   ]
+   "added": []
   },
   "youtube": {
-   "scheduled": 10,
+   "scheduled": 9,
    "remaining": 0,
    "last_due": "2026-11-22T14:00:00.000Z",
-   "added": [
-    "r026 11/22 23:00 月末、ボタン1回の店長。 - キンタイ救急隊（試し）"
-   ]
+   "added": []
   }
  },
  "alerts": []

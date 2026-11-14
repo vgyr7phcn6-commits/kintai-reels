@@ -511,10 +511,10 @@
   "slot": "21:00",
   "why": "試し",
   "dueAt": "2026-11-13T12:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-11-03T02:55:18.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-13T12:07:46.546Z",
+  "link": "https://www.instagram.com/reel/Dfrl13hglhT/"
  },
  "6ae94d1894b13c6dd78f7470": {
   "item": "r016",
@@ -555,10 +555,10 @@
   "slot": "15:00",
   "why": "試し",
   "dueAt": "2026-11-13T06:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-11-04T01:20:33.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-13T06:01:23.653Z",
+  "link": "https://www.youtube.com/shorts/UEjomVcJ9Es"
  },
  "6aebdb90ff03f6944a18c08b": {
   "item": "r018",
@@ -831,7 +831,9 @@
   "why": "試し",
   "dueAt": "2026-11-22T03:00:00.000Z",
   "status": "scheduled",
-  "created": "2026-11-13T01:49:30.000Z"
+  "created": "2026-11-13T01:49:30.000Z",
+  "sentAt": null,
+  "link": null
  },
  "6af66cadda25c4db3e8afc38": {
   "item": "r026",
@@ -840,7 +842,9 @@
   "why": "試し",
   "dueAt": "2026-11-22T09:00:00.000Z",
   "status": "scheduled",
-  "created": "2026-11-13T01:49:30.000Z"
+  "created": "2026-11-13T01:49:30.000Z",
+  "sentAt": null,
+  "link": null
  },
  "6af66caec1a0010a5befd188": {
   "item": "r026",
@@ -849,6 +853,8 @@
   "why": "試し",
   "dueAt": "2026-11-22T14:00:00.000Z",
   "status": "scheduled",
-  "created": "2026-11-13T01:49:30.000Z"
+  "created": "2026-11-13T01:49:30.000Z",
+  "sentAt": null,
+  "link": null
  }
 }
