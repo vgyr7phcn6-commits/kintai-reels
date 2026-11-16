@@ -599,10 +599,10 @@
   "slot": "21:00",
   "why": "試し",
   "dueAt": "2026-11-15T12:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-11-05T01:27:42.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-15T12:02:48.972Z",
+  "link": "https://www.youtube.com/shorts/A-gOldoHe6o"
  },
  "6aed2dfff3498efda7617f9b": {
   "item": "r019",
@@ -621,10 +621,10 @@
   "slot": "15:00",
   "why": "試し",
   "dueAt": "2026-11-15T06:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-11-06T01:31:41.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-15T06:02:36.421Z",
+  "link": "https://tiktok.com/@kintai_kyukyutai/video/7708274249416330516"
  },
  "6aee7721229bf05daf1cf92f": {
   "item": "r020",
