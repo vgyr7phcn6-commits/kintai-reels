@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-16T01:00:15.000Z",
+ "updated": "2026-11-17T03:52:05.000Z",
  "paused": false,
  "channels": {
   "instagram": {
-   "scheduled": 7,
+   "scheduled": 6,
    "remaining": 0,
    "last_due": "2026-11-22T03:00:00.000Z",
    "added": []
   },
   "tiktok": {
-   "scheduled": 7,
+   "scheduled": 6,
    "remaining": 0,
    "last_due": "2026-11-22T09:00:00.000Z",
    "added": []
   },
   "youtube": {
-   "scheduled": 7,
+   "scheduled": 5,
    "remaining": 0,
    "last_due": "2026-11-22T14:00:00.000Z",
    "added": []
