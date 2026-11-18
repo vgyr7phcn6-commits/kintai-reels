@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-17T03:52:05.000Z",
+ "updated": "2026-11-18T02:53:45.000Z",
  "paused": false,
  "channels": {
   "instagram": {
-   "scheduled": 6,
+   "scheduled": 5,
    "remaining": 0,
    "last_due": "2026-11-22T03:00:00.000Z",
    "added": []
   },
   "tiktok": {
-   "scheduled": 6,
+   "scheduled": 5,
    "remaining": 0,
    "last_due": "2026-11-22T09:00:00.000Z",
    "added": []

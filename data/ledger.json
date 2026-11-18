@@ -624,7 +624,7 @@
   "status": "sent",
   "created": "2026-11-06T01:31:41.000Z",
   "sentAt": "2026-11-15T06:02:36.421Z",
-  "link": "https://tiktok.com/@kintai_kyukyutai/video/7708274249416330516"
+  "link": "https://www.tiktok.com/@kintai_kyukyutai/video/7708274249416330516?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
  },
  "6aee7721229bf05daf1cf92f": {
   "item": "r020",
@@ -646,7 +646,7 @@
   "status": "sent",
   "created": "2026-11-07T00:55:59.000Z",
   "sentAt": "2026-11-16T09:04:12.944Z",
-  "link": "https://tiktok.com/@kintai_kyukyutai/video/7708692132998941960"
+  "link": "https://www.tiktok.com/@kintai_kyukyutai/video/7708692132998941960?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
  },
  "6aee7724a7751de7c9b98311": {
   "item": "r021",
@@ -654,10 +654,10 @@
   "slot": "21:00",
   "why": "試し",
   "dueAt": "2026-11-17T12:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-11-07T00:55:59.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-17T12:06:29.631Z",
+  "link": "https://www.tiktok.com/@kintai_kyukyutai/video/7709110265773575430?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
  },
  "6aee77249214322f68c0545a": {
   "item": "r020",
@@ -676,10 +676,10 @@
   "slot": "15:00",
   "why": "試し",
   "dueAt": "2026-11-17T06:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-11-08T00:34:28.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-17T06:02:14.992Z",
+  "link": "https://www.instagram.com/reel/Df1PSismVu7/"
  },
  "6aefc396562f2e6de98ca3dc": {
   "item": "r021",
