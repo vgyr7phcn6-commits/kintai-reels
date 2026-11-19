@@ -1,25 +1,27 @@
 {
- "updated": "2026-11-18T02:53:45.000Z",
+ "updated": "2026-11-19T02:33:00.000Z",
  "paused": false,
  "channels": {
   "instagram": {
-   "scheduled": 5,
+   "scheduled": 4,
    "remaining": 0,
    "last_due": "2026-11-22T03:00:00.000Z",
    "added": []
   },
   "tiktok": {
-   "scheduled": 5,
+   "scheduled": 3,
    "remaining": 0,
    "last_due": "2026-11-22T09:00:00.000Z",
    "added": []
   },
   "youtube": {
-   "scheduled": 5,
+   "scheduled": 4,
    "remaining": 0,
    "last_due": "2026-11-22T14:00:00.000Z",
    "added": []
   }
  },
- "alerts": []
+ "alerts": [
+  "tiktok：予約があと 3 日分で、次の動画がありません（新しい動画を足してください）"
+ ]
 }
