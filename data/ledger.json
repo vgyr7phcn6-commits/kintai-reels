@@ -709,10 +709,10 @@
   "slot": "21:00",
   "why": "試し",
   "dueAt": "2026-11-19T12:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-11-09T00:53:48.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-19T12:06:50.122Z",
+  "link": "https://www.instagram.com/reel/Df7CkWejnsL/"
  },
  "6af119a0229bf05dafe501dd": {
   "item": "r022",
@@ -764,7 +764,7 @@
   "slot": "15:00",
   "why": "試し",
   "dueAt": "2026-11-19T06:00:00.000Z",
-  "status": "scheduled",
+  "status": "error",
   "created": "2026-11-10T03:33:46.000Z",
   "sentAt": null,
   "link": null
