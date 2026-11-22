@@ -723,7 +723,7 @@
   "status": "sent",
   "created": "2026-11-09T00:53:48.000Z",
   "sentAt": "2026-11-18T14:08:11.037Z",
-  "link": "https://tiktok.com/@kintai_kyukyutai/video/7709512497308519700"
+  "link": "https://www.tiktok.com/@kintai_kyukyutai/video/7709512497308519700?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
  },
  "6af119a19214322f6887a66a": {
   "item": "r022",
@@ -756,7 +756,7 @@
   "status": "sent",
   "created": "2026-11-10T03:33:46.000Z",
   "sentAt": "2026-11-19T00:05:30.199Z",
-  "link": "https://tiktok.com/@kintai_kyukyutai/video/7709666727335922962"
+  "link": "https://www.tiktok.com/@kintai_kyukyutai/video/7709666727335922962?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
  },
  "6af2909ee261c09acc992469": {
   "item": "r023",
@@ -778,7 +778,7 @@
   "status": "sent",
   "created": "2026-11-11T01:14:21.000Z",
   "sentAt": "2026-11-20T03:02:43.503Z",
-  "link": "https://tiktok.com/@kintai_kyukyutai/video/7710083179591241012"
+  "link": "https://www.tiktok.com/@kintai_kyukyutai/video/7710083179591241012?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
  },
  "6af3c17061555afe9eec19eb": {
   "item": "r024",
@@ -797,10 +797,10 @@
   "slot": "21:00",
   "why": "試し",
   "dueAt": "2026-11-21T12:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-11-11T01:14:21.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-21T12:02:59.715Z",
+  "link": "https://www.youtube.com/shorts/744mwKnLfGI"
  },
  "6af5216d3d8c751bfd0b30e0": {
   "item": "r025",
@@ -819,10 +819,10 @@
   "slot": "15:00",
   "why": "試し",
   "dueAt": "2026-11-21T06:00:00.000Z",
-  "status": "scheduled",
+  "status": "sent",
   "created": "2026-11-12T02:16:12.000Z",
-  "sentAt": null,
-  "link": null
+  "sentAt": "2026-11-21T06:02:45.416Z",
+  "link": "https://www.tiktok.com/@kintai_kyukyutai/video/7710500772869426439?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
  },
  "6af66cacc1a0010a5befd0d2": {
   "item": "r026",

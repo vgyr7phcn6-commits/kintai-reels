@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:12:10.000Z",
+ "updated": "2026-11-22T01:17:12.000Z",
  "paused": false,
  "channels": {
   "instagram": {
@@ -9,22 +9,21 @@
    "added": []
   },
   "tiktok": {
-   "scheduled": 2,
+   "scheduled": 1,
    "remaining": 0,
    "last_due": "2026-11-22T09:00:00.000Z",
    "added": []
   },
   "youtube": {
-   "scheduled": 2,
+   "scheduled": 1,
    "remaining": 0,
    "last_due": "2026-11-22T14:00:00.000Z",
    "added": []
   }
  },
  "alerts": [
-  "instagram：r024（タイムカードのいらない朝へ - キンタイ救急隊）の投稿に失敗しました：An unknown error has occurred. Please retry the post again, and get in touch if this persists.",
   "instagram：予約があと 1 日分で、次の動画がありません（新しい動画を足してください）",
-  "tiktok：予約があと 2 日分で、次の動画がありません（新しい動画を足してください）",
-  "youtube：予約があと 2 日分で、次の動画がありません（新しい動画を足してください）"
+  "tiktok：予約があと 1 日分で、次の動画がありません（新しい動画を足してください）",
+  "youtube：予約があと 1 日分で、次の動画がありません（新しい動画を足してください）"
  ]
 }
