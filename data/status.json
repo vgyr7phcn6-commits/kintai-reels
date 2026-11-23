@@ -1,29 +1,30 @@
 {
- "updated": "2026-11-22T01:17:12.000Z",
+ "updated": "2026-11-23T01:41:19.000Z",
  "paused": false,
  "channels": {
   "instagram": {
-   "scheduled": 1,
+   "scheduled": 0,
    "remaining": 0,
-   "last_due": "2026-11-22T03:00:00.000Z",
+   "last_due": "2026-11-21T00:00:00.000Z",
    "added": []
   },
   "tiktok": {
-   "scheduled": 1,
+   "scheduled": 0,
    "remaining": 0,
    "last_due": "2026-11-22T09:00:00.000Z",
    "added": []
   },
   "youtube": {
-   "scheduled": 1,
+   "scheduled": 0,
    "remaining": 0,
    "last_due": "2026-11-22T14:00:00.000Z",
    "added": []
   }
  },
  "alerts": [
-  "instagram：予約があと 1 日分で、次の動画がありません（新しい動画を足してください）",
-  "tiktok：予約があと 1 日分で、次の動画がありません（新しい動画を足してください）",
-  "youtube：予約があと 1 日分で、次の動画がありません（新しい動画を足してください）"
+  "instagram：r026（月末、ボタン1回の店長。 - キンタイ救急隊）の投稿に失敗しました：It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications.",
+  "instagram：予約があと 0 日分で、次の動画がありません（新しい動画を足してください）",
+  "tiktok：予約があと 0 日分で、次の動画がありません（新しい動画を足してください）",
+  "youtube：予約があと 0 日分で、次の動画がありません（新しい動画を足してください）"
  ]
 }
