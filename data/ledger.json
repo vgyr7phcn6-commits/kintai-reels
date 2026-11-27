@@ -856,5 +856,275 @@
   "created": "2026-11-13T01:49:30.000Z",
   "sentAt": "2026-11-22T14:02:38.871Z",
   "link": "https://www.youtube.com/shorts/ANBir2RFOfQ"
+ },
+ "6b08fb38e94385a8fd6df62e": {
+  "item": "r027",
+  "channel": "instagram",
+  "slot": "12:00",
+  "why": "試し",
+  "dueAt": "2026-11-28T03:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb3a1fd46e62e70c6bf5": {
+  "item": "r028",
+  "channel": "instagram",
+  "slot": "15:00",
+  "why": "試し",
+  "dueAt": "2026-11-29T06:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb3ae94385a8fd6df6b6": {
+  "item": "r029",
+  "channel": "instagram",
+  "slot": "23:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-11-30T14:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb3b049983dcfb844648": {
+  "item": "r030",
+  "channel": "instagram",
+  "slot": "21:00",
+  "why": "試し",
+  "dueAt": "2026-12-01T12:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb3c062ed764a8ddddce": {
+  "item": "r031",
+  "channel": "instagram",
+  "slot": "23:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-12-02T14:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb3d062ed764a8ddde43": {
+  "item": "r032",
+  "channel": "instagram",
+  "slot": "09:00",
+  "why": "試し",
+  "dueAt": "2026-12-03T00:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb3e658222306cdb21a3": {
+  "item": "r033",
+  "channel": "instagram",
+  "slot": "12:00",
+  "why": "試し",
+  "dueAt": "2026-12-04T03:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb40e94385a8fd6df7b5": {
+  "item": "r034",
+  "channel": "instagram",
+  "slot": "23:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-12-05T14:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb411fd46e62e70c6f07": {
+  "item": "r035",
+  "channel": "instagram",
+  "slot": "23:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-12-06T14:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb41658222306cdb248d": {
+  "item": "r036",
+  "channel": "instagram",
+  "slot": "21:00",
+  "why": "試し",
+  "dueAt": "2026-12-07T12:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb421fd46e62e70c6f79": {
+  "item": "r027",
+  "channel": "tiktok",
+  "slot": "09:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-11-28T00:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb42e94385a8fd6df980": {
+  "item": "r028",
+  "channel": "tiktok",
+  "slot": "21:00",
+  "why": "試し",
+  "dueAt": "2026-11-29T12:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb43062ed764a8dde11e": {
+  "item": "r029",
+  "channel": "tiktok",
+  "slot": "09:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-11-30T00:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb43062ed764a8dde18d": {
+  "item": "r030",
+  "channel": "tiktok",
+  "slot": "09:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-12-01T00:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb44049983dcfb844857": {
+  "item": "r031",
+  "channel": "tiktok",
+  "slot": "09:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-12-02T00:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb44776ce21276e14329": {
+  "item": "r032",
+  "channel": "tiktok",
+  "slot": "09:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-12-03T00:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb45062ed764a8dde1c2": {
+  "item": "r033",
+  "channel": "tiktok",
+  "slot": "09:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-12-04T00:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb45776ce21276e1435b": {
+  "item": "r034",
+  "channel": "tiktok",
+  "slot": "09:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-12-05T00:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb46062ed764a8dde211": {
+  "item": "r035",
+  "channel": "tiktok",
+  "slot": "09:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-12-06T00:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb46062ed764a8dde240": {
+  "item": "r036",
+  "channel": "tiktok",
+  "slot": "09:00",
+  "why": "試し",
+  "dueAt": "2026-12-07T00:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb47658222306cdb2598": {
+  "item": "r027",
+  "channel": "youtube",
+  "slot": "21:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-11-27T12:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb48e94385a8fd6dfb00": {
+  "item": "r028",
+  "channel": "youtube",
+  "slot": "21:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-11-28T12:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb48658222306cdb26aa": {
+  "item": "r029",
+  "channel": "youtube",
+  "slot": "21:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-11-29T12:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb491fd46e62e70c7124": {
+  "item": "r030",
+  "channel": "youtube",
+  "slot": "12:00",
+  "why": "試し",
+  "dueAt": "2026-11-30T03:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb49e94385a8fd6dfb5b": {
+  "item": "r031",
+  "channel": "youtube",
+  "slot": "21:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-12-01T12:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb4a049983dcfb8449b2": {
+  "item": "r032",
+  "channel": "youtube",
+  "slot": "21:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-12-02T12:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb4a658222306cdb26eb": {
+  "item": "r033",
+  "channel": "youtube",
+  "slot": "21:00",
+  "why": "試し",
+  "dueAt": "2026-12-03T12:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb4b776ce21276e14495": {
+  "item": "r034",
+  "channel": "youtube",
+  "slot": "21:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-12-04T12:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb4b1fd46e62e70c71bb": {
+  "item": "r035",
+  "channel": "youtube",
+  "slot": "21:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-12-05T12:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
+ },
+ "6b08fb4ce94385a8fd6dfbfa": {
+  "item": "r036",
+  "channel": "youtube",
+  "slot": "21:00",
+  "why": "伸びる時間",
+  "dueAt": "2026-12-06T12:00:00.000Z",
+  "status": "scheduled",
+  "created": "2026-11-27T03:38:29.000Z"
  }
 }
